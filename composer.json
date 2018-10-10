@@ -1,0 +1,8 @@
+{
+  "name": "ComposerApp",
+  "autoload": {
+    "psr-4": {
+      "ComposerApp\\": "src"
+    }
+  }
+}
